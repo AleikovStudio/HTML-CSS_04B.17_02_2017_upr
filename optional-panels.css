@@ -1,0 +1,81 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 auto;
+    background: #a4a8a9;
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 15px;
+    color: #191923;
+}
+
+nav {
+    width: 1000px;
+    margin: 40px;
+    height: 80px;
+    background: #ffffff;
+}
+
+nav ul {
+    float: left;
+    padding: 15px 0 15px 30px;
+}
+
+nav li {
+    display: inline-block;
+
+}
+
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #333;
+}
+
+nav a:active {
+    color: #BF1363;
+}
+
+nav a:hover {
+    color: #BF1363;
+}
+
+section img{
+    width: 100%;
+}
+
+section article{
+    width: 200px;
+    display: inline-block;
+    background: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
